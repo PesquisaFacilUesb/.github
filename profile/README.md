@@ -2,9 +2,14 @@
 
 <p align="center"> Bem-vindo à nossa organização! Este é o repositório central que descreve o projeto e fornece links para todos os repositórios principais que compõem o sistema.<p>
 <p align="center">
-  <a href="#-descrição-do-projeto">Descrição</a>
-  <a href="#-estado-geral">Estado</a>
-  <a href="#-documentação">Documentação</a>
+  <a href="#-descrição-do-projeto">Descrição</a> •
+  <a href="#-estado-geral">Estado</a> •
+  <a href="#-tecnologias-utilizadas">Tecnologias</a> •
+  <a href="#-calendário-de-entregas">Calendário</a> •
+  <a href="#-documentação">Documentação</a> •
+  <a href="#-repositórios">Repositórios</a> •
+  <a href="#-licença">Licença</a> •
+  <a href="#-contato">Contato</a> •
 </p>
 
 # 📝 Descrição do projeto
@@ -67,7 +72,7 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
 A documentação geral para o projeto está no **[Repositório de documentação](https://github.com/PesquisaFacilUesb/pesquisafacil-docs)**
 
 
-# 📂 Links dos Repositórios
+# 📂 Repositórios
 
 - **[Back-end (Java Spring)](link-para-o-repositorio-backend)**
 - **[Front-end Web (Next.js)](link-para-o-repositorio-web)**
