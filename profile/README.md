@@ -2,8 +2,9 @@
 
 <p align="center"> Bem-vindo à nossa organização! Este é o repositório central que descreve o projeto e fornece links para todos os repositórios principais que compõem o sistema.<p>
 <p align="center">
-  <a href="#descrição-do-projeto">Descrição do projeto</a>
-  <a href="#documentação">Documentação</a>
+  <a href="#-descrição-do-projeto">Descrição</a>
+  <a href="#-estado-geral">Estado</a>
+  <a href="#-documentação">Documentação</a>
 </p>
 
 # 📝 Descrição do projeto
