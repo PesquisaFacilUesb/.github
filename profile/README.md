@@ -63,9 +63,8 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
 | [Data]           | Implementação do Back-end                             | 🔄 Em progresso    |
 | [Data]           | Implementação do Front-end Web                        | 🔄 Em progresso    |
 | [Data]           | Implementação do Mobile                               | 🚧 Pendente         |
-| [Data]           | Testes de Integração e Finalização                    | 🚧 Pendente         |
+| Próximo semestre | Testes de Integração e Finalização                    | 🚧 Pendente         |
 
----
 
 # 📚 Documentação
 
