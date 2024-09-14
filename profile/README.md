@@ -55,7 +55,7 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
 
 
 
-## 📅 Calendário de Entregas
+# 📅 Calendário de Entregas
 
 | Data de Entrega  | Item                                                  | Status             |
 |------------------|-------------------------------------------------------|--------------------|
