@@ -56,6 +56,11 @@ O projeto é desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
+# Documentação
+
+A documentação geral para o projeto está no **[Repositório de documentação](https://github.com/PesquisaFacilUesb/pesquisafacil-docs)**
+---
+
 ## 📧 Contato
 
 Para mais informações sobre o projeto, entre em contato com os desenvolvedores pelo e-mail [pesquisafaciluesb@gmail.com](mailto:pesquisafaciluesb@gmail.com).
