@@ -9,7 +9,7 @@
   <a href="#-documentação">Documentação</a> •
   <a href="#-repositórios">Repositórios</a> •
   <a href="#-licença">Licença</a> •
-  <a href="#-contato">Contato</a> •
+  <a href="#-contato">Contato</a> 
 </p>
 
 # 📝 Descrição do projeto
