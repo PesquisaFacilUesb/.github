@@ -80,7 +80,7 @@ A documentação geral para o projeto está no **[Repositório de documentação
 
 # 📜 Licença
 
-Este projeto está licenciado sob uma licença personalizada. Para mais detalhes, consulte o arquivo de [Licença](profile/LICENSE.md).
+Este projeto está licenciado sob uma licença personalizada. Para mais detalhes, consulte o arquivo de [Licença](LICENSE.md).
 
 
 
