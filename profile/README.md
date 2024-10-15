@@ -24,12 +24,12 @@ Funcionalidades principais incluem:
 
 # 📊 Estado Geral
 
-| Repositório           | Status                                                                 | Última Atualização |
-|-----------------------|------------------------------------------------------------------------|--------------------|
-| [Back-end (Java Spring)](link-para-o-repositorio-backend)  | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | [Data] |
-| [Front-end Web (Next.js)](link-para-o-repositorio-web)     | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | [Data] |
-| [Mobile (Flutter)](link-para-o-repositorio-mobile)         | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | [Data] |
-| [Documentação](link-para-o-repositorio-documentacao)       | ![Status](https://img.shields.io/badge/status-finalizado-green) | [Data] |
+| Repositório           | Status                                                                 | 
+|-----------------------|------------------------------------------------------------------------|
+| [Back-end (Java Spring)](https://github.com/PesquisaFacilUesb/pesquisafacil-back)  | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | 
+| [Front-end Web (Next.js)](https://github.com/PesquisaFacilUesb/pesquisafacil-web)     | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | 
+| [Mobile (Flutter)](https://github.com/PesquisaFacilUesb/pesquisafacil-front)         | ![Status](https://img.shields.io/badge/status-em%20progresso-yellow) | 
+| [Documentação](https://github.com/PesquisaFacilUesb/pesquisafacil-docs)       | ![Status](https://img.shields.io/badge/status-finalizado-green) | 
 
 
 
